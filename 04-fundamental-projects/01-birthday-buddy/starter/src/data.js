@@ -30,3 +30,4 @@ export default [
     image: 'https://www.course-api.com/images/people/person-5.jpeg',
   },
 ];
+
