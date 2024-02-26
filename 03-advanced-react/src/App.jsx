@@ -1,4 +1,4 @@
-import List from "./tutorial/06-forms/starter/01-controlled-inputs.jsx";
+import List from "./tutorial/06-forms/starter/02-user-challenge.jsx";
 
 function App() {
   return (

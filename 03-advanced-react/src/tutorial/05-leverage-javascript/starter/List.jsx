@@ -4,7 +4,7 @@ import {people} from "../../../data";
 const List = () => {
   return (
     <div>{people.map((person) => {
-      return <Person  key={person.name} {...person}  />
+      return<Op   person={person}  />
     })}</div>
   )
 }
